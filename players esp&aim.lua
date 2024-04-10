@@ -1,6 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 local IsSynapse = is_synapse_function and is_synapse_function((function() end))
 local required_funcs = {
     isfile = isfile,
